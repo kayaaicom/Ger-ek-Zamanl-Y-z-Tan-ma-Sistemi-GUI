@@ -1,0 +1,1 @@
+# Ger-ek-Zamanl-Y-z-Tan-ma-Sistemi-GUI
