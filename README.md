@@ -1,6 +1,6 @@
 <h1>Gerçek Zamanlı Yüz Tanıma Sistemi, Proje Detayları:</h1>
 
-![Deprem Verileri](https://raw.githubusercontent.com/kayaaicom/Yapay-Zeka-ile-Deprem-Tahmin-Ve-Analiz-Programi/main/mevcut-deprem-verileri.PNG)
+![Deprem Verileri](https://raw.githubusercontent.com/kayaaicom/Ger-ek-Zamanl-Y-z-Tan-ma-Sistemi-GUI/main/yuztanimasistemi.png)
 
 
 Bu proje, gerçek zamanlı bir yüz tanıma sistemi oluşturmak için Python programlama dilini ve birkaç popüler kütüphaneyi kullanır. face_recognition, cv2 (OpenCV), PIL (Python Imaging Library), ve Tkinter kütüphanelerinin gücünden yararlanarak, kullanıcıların önceden tanımlanmış yüzleri bir video akışı içinde tanımasına ve bu yüzlerle ilişkilendirilmiş bilgileri grafiksel bir kullanıcı arayüzü (GUI) üzerinde görüntülemesine olanak tanır. Sistem, güvenlik, kişisel asistan uygulamaları, katılımcı takibi gibi çeşitli alanlarda uygulanabilir.
